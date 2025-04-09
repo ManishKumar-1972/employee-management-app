@@ -1,0 +1,15 @@
+# Ignore backend build
+/backend/employee-management/target/
+
+# Ignore frontend build
+/frontend/employee-management-ui/node_modules/
+frontend/employee-management-ui/build/
+
+# Ignore IntelliJ/VSCode/IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS/system files
+.DS_Store
+*.log
