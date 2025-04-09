@@ -74,6 +74,4 @@ GitHub: [ManishKumar-1972](https://github.com/ManishKumar-1972)
 ---
 
 > ⭐ If you like this project, please consider giving it a star on GitHub.
-```
 
----
