@@ -1,5 +1,3 @@
-### 📝 Basic `README.md`
-
 # 🧑‍💼 Employee Management App
 
 A full-stack Employee Management Application built with **Spring Boot (Java)**, **ReactJS**, **MySQL**, and **Docker**. This app supports adding, viewing, and deleting employee records with real-time updates and automated testing.
